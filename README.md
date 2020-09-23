@@ -1,6 +1,6 @@
 ## Nice to meet you!! 👋
 
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=KB5201314&hide=["issues"]&show_icons=true' width='400"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=KB5201314&hide=["issues"]&show_icons=true' width='350"'>
 
 ```
 - 🎯 Interested in Android, operating system, virtualization
