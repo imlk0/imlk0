@@ -4,7 +4,7 @@
 
 ```
 🎯 Interested in Android, operating system, virtualization
-⚡ Programming language: Java、Python、Shell、C++、Golang、Rust
+⚡ Programming language: Rust、Java、Python、Shell、C++、Golang
 😃 A student of BUPT. Like to meet new friends and collaborate.
 🕸️ Read my blogs: https://blog.imlk.top
 📫 Send email to me: me@imlk.top
